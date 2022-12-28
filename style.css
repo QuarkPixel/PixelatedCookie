@@ -1,0 +1,44 @@
+::-webkit-scrollbar {
+	display: none;
+}
+
+.separatorRight {
+	right: 299px;
+	/* background-image: url(); */
+}
+#sectionMiddle {
+	margin-right: -4px;
+}
+#ascendNumber {
+	right: 119px;
+}
+#ascendMeterContainer {
+	right: 2px;
+}
+
+.titleFont,
+.title,
+.section,
+.lockedTitle,
+.smallFancyButton,
+body,
+#ascendNumber {
+	font-family: 'Zpix', 'Merriweather', Georgia, serif;
+}
+
+body {
+	image-rendering: pixelated;
+}
+
+#backgroundLeftCanvas {
+	image-rendering: auto;
+}
+
+.product .icon {
+	background-image: url('res/buildings.png') !important;
+}
+
+/* #shimmers [alt='Variable'],
+.shimmer[alt=var] {
+	background-image: url('res/goldCookie.png') !important;
+} */
