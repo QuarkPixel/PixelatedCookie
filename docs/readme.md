@@ -1,46 +1,13 @@
-# Greenworks Documents
 
-## FAQ
+# PixelatedCookie
 
-There are questions/issues being asked quite often. Check following pages before
-creating an issue.
-  * [Troubleshooting](troubleshooting.md)
-  * [Gotchas](gotchas.md)
+***A Cookie Clicker mod.***
+**[See Me on Steam Workshop ](https://steamcommunity.com/sharedfiles/filedetails/?id=2908166482&result=1)**
 
-## Guides
-
-* [Quick Start (NW.js)](quick-start-nwjs.md)
-
-## Build Instructions
-
-* [Build Instructions (NW.js)](build-instructions-nwjs.md)
-* [Build Instructions (Electron)](build-instructions-electron.md)
-* [Build Instructions (Node.js)](build-instructions-nodejs.md)
-
-## Test
-
-* [Mocha Test](mocha-test.md)
-
-## APIs
-
-The `greenworks` module gives you ability to access Steam APIs:
-
-```js
-var greenworks = require('./greenworks');
-
-if (greenworks.init())
-  console.log('Steam API has been initalized.');
-```
-
-## API References
-
-* [Achievement](achievement.md)
-* [Authentication](authentication.md)
-* [Cloud](cloud.md)
-* [DLC](dlc.md)
-* [Events](events.md)
-* [Friends](friends.md)
-* [Setting](setting.md)
-* [Stats](stats.md)
-* [Utils](utils.md)
-* [Workshop](workshop.md)
+Pixelize the UI style.  
+  
+## Changes:  
+- Modify partial map pixelization  
+- Hidden the scroll bar  
+- Change the map difference to the adjacent value difference  
+- Support pixel font (Due to technical constraints, you need to manually find the zpix.ttf font file in the corresponding mod folder and install it to view it. Of course, this is optional.)
