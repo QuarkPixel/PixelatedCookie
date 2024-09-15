@@ -1,7 +1,7 @@
 
 # PixelatedCookie
 
-***A Cookie Clicker mod.***
+**A mod for *[Cookie Clicker](https://store.steampowered.com/app/1454400/Cookie_Clicker/)*.**
 
 **[See Me on Steam Workshop ](https://steamcommunity.com/sharedfiles/filedetails/?id=2908166482&result=1)**
 
